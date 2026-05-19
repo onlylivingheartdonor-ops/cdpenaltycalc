@@ -21,4 +21,4 @@ export const RELATED_LINKS = [
   { label: "Roth vs Traditional IRA", href: "https://www.rothvstraditional.com" },
   { label: "Rent vs Buy Estimator", href: "https://www.rentvsbuyestimator.com" },
   { label: "CD Penalty Calculator", href: "https://www.cdpenaltycalc.com" }
-]
+];
